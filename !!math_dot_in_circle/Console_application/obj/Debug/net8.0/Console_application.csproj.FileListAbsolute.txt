@@ -1,0 +1,14 @@
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\Console_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\Console_application.AssemblyInfoInputs.cache
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\Console_application.AssemblyInfo.cs
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\Console_application.csproj.CoreCompileInputs.cache
+C:\Users\MAq\source\repos\Console_application\Console_application\bin\Debug\net8.0\Console_application.exe
+C:\Users\MAq\source\repos\Console_application\Console_application\bin\Debug\net8.0\Console_application.deps.json
+C:\Users\MAq\source\repos\Console_application\Console_application\bin\Debug\net8.0\Console_application.runtimeconfig.json
+C:\Users\MAq\source\repos\Console_application\Console_application\bin\Debug\net8.0\Console_application.dll
+C:\Users\MAq\source\repos\Console_application\Console_application\bin\Debug\net8.0\Console_application.pdb
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\Console_application.dll
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\refint\Console_application.dll
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\Console_application.pdb
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\Console_application.genruntimeconfig.cache
+C:\Users\MAq\source\repos\Console_application\Console_application\obj\Debug\net8.0\ref\Console_application.dll
